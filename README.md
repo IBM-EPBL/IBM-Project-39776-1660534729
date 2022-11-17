@@ -11,3 +11,8 @@ According to the World Health Organization (WHO), cardiovascular diseases (CVDs)
 4.Work with Keras capabilities.                                                                                                                                                                      
 5.Work with image processing techniques.                                                                                                                                                  
 6.know how to build a web application using the Flask framework.
+# Team ID : PNT2022TMID36166
+# Team Leader : JOSHUA ISRAVEL D
+# Team member : MANOJ KUMAR R
+# Team member : MAHALAKSHMI S
+# Team member : RUBAVATHI A
